@@ -1,4 +1,4 @@
-# Tip Calculator / Bill Splitter
+# Tip Calculator 
 
 ## Run locally
 
